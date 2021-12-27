@@ -1,0 +1,5 @@
+1. End to end: Create, search, update and delete entry. 
+2. Get ALL entries, create a new entry, then check all of them again. It should include the recently created entry.
+3. Try to get a non existing entry, it should give an error.
+4. Try to update a non existing entry, it should give an error.
+5. Try to delete a non existing entry, it should give an error.
